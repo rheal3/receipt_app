@@ -16,15 +16,12 @@ This app will be a place for the user to store all of their receipts. It will be
 
 The landing page will be the first page the user sees when not logged in. It will be attractive and simple.
 
-![](docs/wireframes/p_landing.png)
 ![](docs/wireframes/landing.png)
 
 #### Login and signup
 
 Once the user clicks the button they will be sent to the login page which will have an option to sign up.
 
-![](docs/wireframes/p_login.png)
-![](docs/wireframes/p_create_account.png)
 ![](docs/wireframes/login.png)
 ![](docs/wireframes/create_account.png)
 
@@ -38,21 +35,18 @@ This page is the main page of the app. Its features are:
 - Profile button linking to the Edit Profile page.
 - Logout button.
 
-![](docs/wireframes/p_dashboard.png)
 ![](docs/wireframes/dashboard.png)
 
 #### Edit Receipt
 
 The edit receipt feature will show above the main dashboard page which will appear opaque. The edit fields include: receipt image, date, merchant, amount, comment, and the reimbursable checkbox.
 
-![](docs/wireframes/p_edit_receipt.png)
 ![](docs/wireframes/edit_receipt.png)
 
 #### View Receipt
 
 The view receipt feature will show above the main dashboard page which will appear opaque. It will have an exit button in the top right to leave the feature.
 
-![](docs/wireframes/p_view_single.png)
 ![](docs/wireframes/view_single.png)
 
 
