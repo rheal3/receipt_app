@@ -10,6 +10,20 @@ This app will be a place for the user to store all of their receipts. It will be
 
 ---
 
+## Install Steps
+
+You will need the pip package to complete install steps. Once you have pip, the steps are as follows:
+
+- Clone the repo: `git clone https://github.com/rheal3/receipt_app`
+- Change directory into the repo: `cd receipt_app`
+- Make sure venv is installed: `pip install venv`
+- Create the virtual environment: `python3 -m venv venv`
+- Activate the virtual environment: `source venv/bin/activate`
+- Install the dependencies from requirments.txt: `pip3 install -r requirements.txt`
+- Run the app: `python src/main.py`
+
+---
+
 ## Wireframes
 
 #### Landing page
