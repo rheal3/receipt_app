@@ -68,8 +68,10 @@ The view receipt feature will show above the main dashboard page which will appe
 
 On this page the user will be able to change their details, including: username, password, and email.
 
-- Buttons to edit and delete profile.
+- Button to edit password. Box comes ontop of screen to enter new password.
+- Place to enter new username and email.
+- Click "RECEIPTS" to return to dashboard.
 
-<!-- img for user profile -->
+![](docs/wireframes/profile.png)
 
 ---
